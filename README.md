@@ -2,8 +2,6 @@
 执行app3.py
 一个模拟的电动汽车（EV）充电网络，结合了**区块链**技术用于交易记录和**联邦学习**（Federated Learning）技术用于智能决策。系统中的每辆电动汽车通过学习局部数据来优化其充放电行为，同时保护数据隐私。
 
-**GitHub 仓库:** [https://github.com/CaoYongshengcys/blockchain_federated_learning.git](https://github.com/CaoYongshengcys/blockchain_federated_learning.git)
-
 ## 核心功能
 
 *   **区块链 (Blockchain):** 模拟一个去中心化的账本，用于记录所有EV的充放电交易。每10个模拟时间步长会创建一个新区块。
